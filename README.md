@@ -2,6 +2,8 @@
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/gitdagray/js_acme_blogs)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aea8b4b8-9f04-4f22-94c4-7a664d7c6f13/deploy-status)](https://app.netlify.com/sites/spiffy-kelpie-4d5629/deploys)
+
 **Start by clicking the Remix on Glitch button above.**
 
 _Once you are working with your own copy of the project on Glitch..._
